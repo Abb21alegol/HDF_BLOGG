@@ -1,6 +1,6 @@
 ---
 id: 8
-image: https://www.w3schools.com/w3images/sandwich.jpg
+image: /DSC00241.jpg
 title: We do not have a tourbuss yet.. please buy us one!
 description: "Just give us money, we need it. Thanks<3"
 ---

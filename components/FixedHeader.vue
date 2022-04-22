@@ -24,11 +24,11 @@
       <!-- Navbar -->
       <div class="hidden md:block">
         <ul class="flex space-x-8 text-md text-white font-sans">
-          <li class="hover:text-red-800 focus:ring-2 focus:ring-red-500"><a href="/" class="focus:ring-2 focus:ring-red-500">Home</a></li>
-          <li class="hover:text-red-800 focus:ring-2 focus:ring-red-500"><a href="/merchsoon" class="">Merch</a></li>
-          <li class="hover:text-red-800 focus:ring-2 focus:ring-red-500"><a href="/newsletter" class="">Newsletter</a></li>
-          <li class="hover:text-red-800 focus:ring-2 focus:ring-red-500"><a href="/members" class="">Members</a></li>
-          <li class="hover:text-red-800 focus:ring-2 focus:ring-red-500"><a href="/contact" class="">Contact</a></li>
+          <li class="hover:text-red-800 "><a href="/" class="">Home</a></li>
+          <li class="hover:text-red-800 "><a href="/merchsoon" class="">Merch</a></li>
+          <li class="hover:text-red-800 "><a href="/newsletter" class="">Newsletter</a></li>
+          <li class="hover:text-red-800 "><a href="/members" class="">Members</a></li>
+          <li class="hover:text-red-800 "><a href="/contact" class="">Contact</a></li>
         </ul>
       </div>
 
